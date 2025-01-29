@@ -1,6 +1,6 @@
  # Circular statistical analysis of microtubule plus end dynamics
  
-This page details the steps necessary to add circular statistical analysis to the u-track package (v2.3; https://github.com/DanuserLab/u-track) as used in our manuscript [Houston et al. 2022] (doi.org/10.1242/dev.200552). 
+This page details the steps necessary to add circular statistical analysis to the u-track package (v2.3; https://github.com/DanuserLab/u-track) as used in our manuscript [Houston et al. 2022](https://doi.org/10.1242/dev.200552). 
 
 ## 1. CircStat
 
